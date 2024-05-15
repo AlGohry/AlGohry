@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Ahmed Abdellatif <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3>A passionate Front-End developer from Egypt resident in KSA, I'm interested in web development with a high vision and forward-thinking mindset.</h3>
+<h3>A passionate Front-End developer based in KSA, I'm interested in web development with a high vision and forward-thinking mindset.</h3>
 
 <!-- 👨‍💻 All of my projects are available at <a href="http://webrouk.com/" target="_blank" rel="noreferrer">my website</a> -->
 
